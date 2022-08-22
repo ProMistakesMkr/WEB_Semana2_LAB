@@ -1,0 +1,176 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  min-height: 100%;
+}
+.indexfront {
+  position: relative;
+  width: 1728px;
+  height: 1117px;
+  padding: 0px;
+  background: rgba(192, 206, 222, 1);
+  overflow: hidden;
+}
+.elipses {
+  position: absolute;
+  width: 1842px;
+  height: 710px;
+  top: -81px;
+  left: -190px;
+}
+.button {
+  position: absolute;
+  width: 243px;
+  height: 78px;
+  top: 831px;
+  left: 652px;
+}
+.main {
+  position: absolute;
+  width: 1555px;
+  height: 1040px;
+  top: 79px;
+  left: 173px;
+}
+.nav-bar {
+  position: absolute;
+  width: 41px;
+  height: 564px;
+  top: 124px;
+  left: 25px;
+}
+.ellipse-1 {
+  position: absolute;
+  width: 510px;
+  height: 510px;
+  top: 0px;
+  left: 0px;
+  background: rgba(255, 90, 199, 1);
+  border-radius: 100%;
+}
+.ellipse-2 {
+  position: absolute;
+  width: 266px;
+  height: 266px;
+  top: 122px;
+  left: 819px;
+  background: rgba(255, 90, 199, 1);
+  border-radius: 100%;
+}
+.ellipse-3 {
+  position: absolute;
+  width: 160px;
+  height: 160px;
+  top: 550px;
+  left: 1147px;
+  background: rgba(255, 90, 199, 1);
+  border-radius: 100%;
+}
+.ellipse-4 {
+  position: absolute;
+  width: 236px;
+  height: 236px;
+  top: 311px;
+  left: 1606px;
+  background: rgba(255, 90, 199, 1);
+  border-radius: 100%;
+}
+.rectangle-1 {
+  position: absolute;
+  width: 243px;
+  height: 78px;
+  top: 0px;
+  left: 0px;
+  background: rgba(255, 90, 199, 1);
+  border: 2px solid rgba(0, 0, 0, 1);
+  border-radius: 25px;
+}
+.learn-more {
+  position: absolute;
+  height: 24px;
+  top: 27px;
+  left: 68px;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 1);
+}
+.tittle {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-family: "Lettown Hills", sans-serif;
+  font-weight: 400;
+  font-size: 128px;
+  color: rgba(255, 255, 255, 1);
+}
+.name {
+  position: absolute;
+  height: 24px;
+  top: 378px;
+  left: 0px;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 1);
+}
+.paragraph {
+  position: absolute;
+  top: 479px;
+  left: 0px;
+  font-family: "Inter", sans-serif;
+  font-weight: 300;
+  font-size: 24px;
+  color: rgba(0, 0, 0, 1);
+}
+.kevin-abstract {
+  position: absolute;
+  width: 819px;
+  height: 819px;
+  top: 221px;
+  left: 736px;
+  background: url("src/Kevin\ Abstract.png") 50% 50% / cover no-repeat;
+}
+.home-1 {
+  position: absolute;
+  height: 39px;
+  top: 91px;
+  left: 0px;
+  transform: rotateZ(-90deg);
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+  font-size: 32px;
+  color: rgba(255, 255, 255, 1);
+}
+.store {
+  position: absolute;
+  height: 39px;
+  top: 277px;
+  left: 0px;
+  transform: rotateZ(-90deg);
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+  font-size: 32px;
+  color: rgba(255, 255, 255, 1);
+}
+.discography {
+  position: absolute;
+  height: 39px;
+  top: 564px;
+  left: 0px;
+  transform: rotateZ(-90deg);
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+  font-size: 32px;
+  color: rgba(255, 255, 255, 1);
+}
+.line-1 {
+  position: absolute;
+  width: 89px;
+  height: 0px;
+  top: 2px;
+  left: 39px;
+  transform: rotateZ(89deg);
+  border: 4px solid rgba(192, 206, 222, 1);
+}
